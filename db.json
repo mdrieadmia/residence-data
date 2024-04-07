@@ -1,0 +1,76 @@
+{
+    "residences": [
+      {
+        "estate_title": "Single Family Homes",
+        "id": 1,
+        "segment_name": "Apartment",
+        "description": "A stylish loft apartment in the heart of downtown, offering urban living at its finest.",
+        "price": "$1,800/month",
+        "status": "Rent",
+        "area": "800 sq ft",
+        "location": "San Francisco, California",
+        "facilities": ["Open kitchen", "Exposed brick walls", "Rooftop terrace"],
+        "image": "https://i.ibb.co/WxmN7Mz/single.jpg"
+      },
+      {
+        "estate_title": "Town Houses",
+        "id": 2,
+        "segment_name": "House",
+        "description": "A cozy bungalow nestled in a peaceful suburban community, perfect for a small family.",
+        "price": "$350,000",
+        "status": "Sale",
+        "area": "1200 sq ft",
+        "location": "Atlanta, Georgia",
+        "facilities": ["Front porch", "Backyard", "Fireplace"],
+        "image": "https://i.ibb.co/9rypc96/townhouse.jpg"
+      },
+      {
+        "estate_title": "Apartments",
+        "id": 3,
+        "segment_name": "Cabin",
+        "description": "A charming cabin retreat by the lake, offering tranquility and beautiful views.",
+        "price": "$250/night",
+        "status": "Rent",
+        "area": "600 sq ft",
+        "location": "Lake Tahoe, Nevada",
+        "facilities": ["Deck", "Fire pit", "Private dock"],
+        "image": "https://i.ibb.co/rm3bvXc/appartments.jpg"
+      },
+      {
+        "estate_title": "Student Housing",
+        "id": 4,
+        "segment_name": "Chalet",
+        "description": "A cozy chalet nestled in the mountains, providing a warm and inviting atmosphere.",
+        "price": "$500,000",
+        "status": "Sale",
+        "area": "1800 sq ft",
+        "location": "Aspen, Colorado",
+        "facilities": ["Stone fireplace", "Hot tub", "Ski-in/ski-out access"],
+        "image": "https://i.ibb.co/LnC20h6/student.jpg"
+      },
+      {
+        "estate_title": "Senior Living Communities",
+        "id": 5,
+        "segment_name": "Villa",
+        "description": "A luxurious villa right on the beach, offering breathtaking ocean views and upscale amenities.",
+        "price": "$2,500/night",
+        "status": "Rent",
+        "area": "3000 sq ft",
+        "location": "Miami, Florida",
+        "facilities": ["Infinity pool", "Private beach access", "Poolside cabana"],
+        "image": "https://i.ibb.co/sthJks7/senior.jpg"
+      },
+      {
+        "estate_title": "Vacation Rentals",
+        "id": 6,
+        "segment_name": "Townhouse",
+        "description": "A charming townhouse in the historic district, featuring classic architecture and modern comforts.",
+        "price": "$600,000",
+        "status": "Sale",
+        "area": "2000 sq ft",
+        "location": "Charleston, South Carolina",
+        "facilities": ["Brick courtyard", "Hardwood floors", "Rooftop deck"],
+        "image": "https://i.ibb.co/X8Wsw93/vacation.jpg"
+      }
+    ]
+  }
